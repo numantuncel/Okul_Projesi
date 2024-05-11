@@ -1,0 +1,5 @@
+decimal(5,2) virgülden sonra iki sayı ve virgülden sonra en yüksek not için 3 sayı olduğu için virgülden önce 5 sayı .
+
+cursor hand üzerine gelince el işareti yapar 
+
+start position center screen
